@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Acceptor.cc.o -c /code/src/MyMuduo/src/Acceptor.cc",
+  "file": "/code/src/MyMuduo/src/Acceptor.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Buffer.cc.o -c /code/src/MyMuduo/src/Buffer.cc",
+  "file": "/code/src/MyMuduo/src/Buffer.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Channel.cc.o -c /code/src/MyMuduo/src/Channel.cc",
+  "file": "/code/src/MyMuduo/src/Channel.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/CurrentThread.cc.o -c /code/src/MyMuduo/src/CurrentThread.cc",
+  "file": "/code/src/MyMuduo/src/CurrentThread.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/EPollPoller.cc.o -c /code/src/MyMuduo/src/EPollPoller.cc",
+  "file": "/code/src/MyMuduo/src/EPollPoller.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoop.cc.o -c /code/src/MyMuduo/src/EventLoop.cc",
+  "file": "/code/src/MyMuduo/src/EventLoop.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThread.cc.o -c /code/src/MyMuduo/src/EventLoopThread.cc",
+  "file": "/code/src/MyMuduo/src/EventLoopThread.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.cc.o -c /code/src/MyMuduo/src/EventLoopThreadPool.cc",
+  "file": "/code/src/MyMuduo/src/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/InetAddress.cc.o -c /code/src/MyMuduo/src/InetAddress.cc",
+  "file": "/code/src/MyMuduo/src/InetAddress.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Logger.cc.o -c /code/src/MyMuduo/src/Logger.cc",
+  "file": "/code/src/MyMuduo/src/Logger.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Poller.cc.o -c /code/src/MyMuduo/src/Poller.cc",
+  "file": "/code/src/MyMuduo/src/Poller.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Socket.cc.o -c /code/src/MyMuduo/src/Socket.cc",
+  "file": "/code/src/MyMuduo/src/Socket.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpConnection.cc.o -c /code/src/MyMuduo/src/TcpConnection.cc",
+  "file": "/code/src/MyMuduo/src/TcpConnection.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/TcpServer.cc.o -c /code/src/MyMuduo/src/TcpServer.cc",
+  "file": "/code/src/MyMuduo/src/TcpServer.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Thread.cc.o -c /code/src/MyMuduo/src/Thread.cc",
+  "file": "/code/src/MyMuduo/src/Thread.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/Timestamp.cc.o -c /code/src/MyMuduo/src/Timestamp.cc",
+  "file": "/code/src/MyMuduo/src/Timestamp.cc"
+},
+{
+  "directory": "/code/src/MyMuduo/build/src",
+  "command": "/opt/rh/devtoolset-7/root/usr/bin/g++  -Dmymuduo_EXPORTS -I/code/src/MyMuduo/src/include   -g -fPIC -g -fPIC   -o CMakeFiles/mymuduo.dir/defaultPoller.cc.o -c /code/src/MyMuduo/src/defaultPoller.cc",
+  "file": "/code/src/MyMuduo/src/defaultPoller.cc"
+}
+]

@@ -1,0 +1,1 @@
+该项目的核心线程结构是Reactor事件分发模型，Reactor模型其中Event、Reactor、Demultiplex、EventHandler分别对应muduo库中的Channel（封装了Event和响应的事件回调操作）、EventLoop、Poller。并且Demultiplex采用的是Epoll的IO多路复用的实现。
