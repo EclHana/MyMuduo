@@ -1,5 +1,0 @@
-/code/src/MyMuduo/build/CMakeFiles/rebuild_cache.dir
-/code/src/MyMuduo/build/CMakeFiles/edit_cache.dir
-/code/src/MyMuduo/build/src/CMakeFiles/rebuild_cache.dir
-/code/src/MyMuduo/build/src/CMakeFiles/edit_cache.dir
-/code/src/MyMuduo/build/src/CMakeFiles/mymuduo.dir
